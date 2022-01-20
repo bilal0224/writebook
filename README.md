@@ -1,5 +1,6 @@
 # Writebook
-Writebook is application that makes it easier for you to write documents. The documents have section, subsection hiearchy and can be edited, shared and downloaded with an intuitive user interfece. you can view the example of app functionality 
+Writebook is application that makes it easier for you to write documents. The documents have section, subsection hiearchy and can be edited, shared and downloaded with an intuitive user interfece. you can view the example of app functionality [here](https://writebook.vercel.app/)
+
 
 [![alt text](https://i.ibb.co/Gk2Fnzf/write-Book-appshot.png)](https://writebook.vercel.app/)
 ## Getting Started
